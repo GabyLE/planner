@@ -8,3 +8,4 @@ planner.log
 planner.log.*
 .simdb/
 config.json
+data/live_queries/mes_db/
