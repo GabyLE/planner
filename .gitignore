@@ -7,3 +7,4 @@ __pycache__/
 planner.log
 planner.log.*
 .simdb/
+config.json
