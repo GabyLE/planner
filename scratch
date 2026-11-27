@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Scratch MES4 world for the planner (simdb); see planner/simdb/__main__.py.
+set -euo pipefail
+cd "$(dirname "$0")"
+exec .venv/bin/python -m simdb "$@"

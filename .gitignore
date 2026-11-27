@@ -1,0 +1,9 @@
+.pytest_cache/
+.venv/
+__pycache__/
+*.pyc
+.planner.lock
+.planner.pause
+planner.log
+planner.log.*
+.simdb/
